@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>ca.mb.vms</groupId>
+    <artifactId>base-parent-pom</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>base-ear-pom</artifactId>
+  <packaging>pom</packaging>
+  <name>base-ear-pom</name>
+  <description>Bill of material for jee ear module</description>
+</project>
